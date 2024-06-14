@@ -12,7 +12,7 @@ C_T = \max(I_T - K, 0)
 $$
 
 where:
-- $ C_T $ is the payoff of the call option at expiration
+- $$ C_T $$ is the payoff of the call option at expiration
 - $ I_T $ is the price of the index at expiration
 - $ K $ is the strike price
 
