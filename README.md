@@ -2,7 +2,7 @@
 Valuation of European Index Options Using Numerical Methods
 
 ### Payoff Functions
-The payoff of an option is the amount received by the holder at expiration. The payoffs for European call and put options are as follows:
+The payoff of an option is the amount received by the holder at expiration. The payoffs for European call and put options are given below.
 
 #### European Index Option Payoff
 The payoff of a European call (put) option at expiration $T$ is given by:
