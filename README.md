@@ -11,4 +11,4 @@ $$
 V_T = \max(\kappa (I_T - K), 0)
 $$
 
-where $\kappa=1$ is a call and $\kappa=1$ is a put,  $V_T$ is the payoff of the option at expiration, and $K$ is the strike price
+where $\kappa=1$ is a call and $\kappa=-1$ is a put,  $V_T$ is the payoff of the option at expiration, and $K$ is the strike price
